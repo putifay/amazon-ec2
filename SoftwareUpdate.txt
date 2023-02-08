@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
