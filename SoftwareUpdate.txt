@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Capitalize OBB acronym (#7383)
