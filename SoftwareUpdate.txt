@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Retry once for Docker CI failures (#8164)
