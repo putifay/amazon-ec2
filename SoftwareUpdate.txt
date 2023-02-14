@@ -1,1 +1,1 @@
-Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
