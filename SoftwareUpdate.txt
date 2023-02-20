@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+* fix for predicting with batch_size > 1
