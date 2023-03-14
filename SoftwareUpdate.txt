@@ -1,1 +1,1 @@
-fix val each epoch
+Add Weights & Biases Docs integrations page (#7199)
