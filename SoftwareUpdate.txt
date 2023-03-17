@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Fix TFLite INT8 for OBB (#7989)
