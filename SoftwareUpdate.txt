@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Update TFLite Docs images (#8605)
