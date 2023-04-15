@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
