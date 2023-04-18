@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
