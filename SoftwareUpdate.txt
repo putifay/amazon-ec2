@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
