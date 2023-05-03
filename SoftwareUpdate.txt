@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
