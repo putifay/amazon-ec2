@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
