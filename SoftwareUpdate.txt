@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
