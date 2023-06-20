@@ -1,1 +1,1 @@
-Add TFLite Edge TPU Docs Integrations Page  (#8900)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
