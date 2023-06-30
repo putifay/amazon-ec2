@@ -1,1 +1,1 @@
-Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
