@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
