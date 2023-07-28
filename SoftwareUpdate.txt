@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Fix docker.yaml double-quote version bug (#7452)
