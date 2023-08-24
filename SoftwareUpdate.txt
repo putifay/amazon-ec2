@@ -1,1 +1,1 @@
-fix print val map
+added badges (#45)
