@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
