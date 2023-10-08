@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Improve Docs Modes tables (#8266)
