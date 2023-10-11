@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
