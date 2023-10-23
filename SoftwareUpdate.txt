@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Fix device counting method to account for double-digit device IDs (#8502)
