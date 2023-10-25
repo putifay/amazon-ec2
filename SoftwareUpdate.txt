@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
