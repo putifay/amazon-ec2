@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
