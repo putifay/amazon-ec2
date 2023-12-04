@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Update Colab notebook for YOLOv8.1 (#8660)
