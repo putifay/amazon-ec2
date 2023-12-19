@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
