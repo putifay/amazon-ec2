@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
