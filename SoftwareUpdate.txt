@@ -1,1 +1,1 @@
-ultralytics 8.1.20 add YOLOv8x-World support (#8539)
+Resize angle, count, and stage on keypoint number change (#7598)
