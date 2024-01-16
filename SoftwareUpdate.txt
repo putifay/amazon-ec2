@@ -1,1 +1,1 @@
-ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
