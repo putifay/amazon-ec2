@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
