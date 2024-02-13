@@ -1,1 +1,1 @@
-ultralytics 8.1.20 add YOLOv8x-World support (#8539)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
