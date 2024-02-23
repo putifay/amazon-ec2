@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Cleanup Docs languages (#7865)
