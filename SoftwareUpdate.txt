@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
