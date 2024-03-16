@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Add new @Retry() decorator (#7854)
