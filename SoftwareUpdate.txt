@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+New test for labels and crops (#8861)
