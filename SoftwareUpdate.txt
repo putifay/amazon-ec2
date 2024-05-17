@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Add visuals in guides/distance-calculation.md (#7876)
