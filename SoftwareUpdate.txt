@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
