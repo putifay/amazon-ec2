@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Fix cmake requirements for ARM64 (#8589)
