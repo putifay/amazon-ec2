@@ -1,1 +1,1 @@
-example Google Colab
+Add plot_images conf_thresh parameter (#8446)
