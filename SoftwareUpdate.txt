@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Add missing Explorer docs reference pages (#7455)
