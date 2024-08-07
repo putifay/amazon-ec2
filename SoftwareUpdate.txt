@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Fix OpenVINO links (#7930)
