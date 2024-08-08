@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Update OpenVINO INT8 export (#7515)
