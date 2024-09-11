@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Retry once for Docker CI failures (#8164)
