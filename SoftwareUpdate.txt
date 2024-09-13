@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
