@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
