@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
