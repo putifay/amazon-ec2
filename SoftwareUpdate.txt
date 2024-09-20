@@ -1,1 +1,1 @@
-fix predict with class filter
+Replace onnx2tf usage from CLI to Python (#8429)
